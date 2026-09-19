@@ -1,4 +1,12 @@
-## Hi there 👋
+<h1 align="center">Hola, soy HUAMANI TUDELANO JHON SAMUEL 👋</h1> <p align="center"> Estudiante de Ingeniería de Sistemas · UNSCH · Ayacucho, Perú 🇵🇪 </p>
+🙋 Sobre mí
+
+Estudiante de la Escuela Profesional de Ingeniería de Sistemas de la Universidad Nacional de San Cristóbal de Huamanga (UNSCH). Me gusta aprender y construir software, y actualmente curso Arquitectura de Software (IS-488), donde aprendo a organizar sistemas y a documentar decisiones de diseño.
+
+🎓 Estudiando Ingeniería de Sistemas en la UNSCH
+🔭 Actualmente aprendiendo: Node.js, Express, Git y Docker
+🌱 Interesado en: arquitectura de software, desarrollo web y trabajo en equipo
+📫 Contáctame: jhon.huamani.27@unsch.edu.pe## Hi there 👋
 
 <!--
 **jhonhuamani2024/jhonhuamani2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
